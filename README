@@ -1,0 +1,12 @@
+Based on the Scrapy lib
+get web data of dazongdianping（大众点评）,soufang（搜房） and lianjia（链家） data.
+Other users can modify the content of python file to satisfy owner application
+
+网络爬虫，用于爬取大众点评，搜房，链家上的数据
+
+if users want export data as csv format , input : scrapy crawl amazon -t csv -o **.csv --loglevel=INFO
+
+recommend is export the data into database (MySQL).details please reference web
+
+
+Anyother questions pleasure connect the author: hardysong110@163.com
